@@ -11,4 +11,4 @@
 9. [Part6: Pandas Series Notebook](Part6-Pandas-Series.ipynb)
 10. [Part7: Pandas Dataframe](Part7-Pandas-Dataframe.md)
 11. [Part7: Pandas Dataframe Notebook](Part7-Pandas-Dataframe.ipynb)
-12. [Competition-Numpy and Pandas](Competition-Numpy-and-Pandas.md)
+12. [Assignment-Numpy and Pandas](Assignment-Numpy-and-Pandas.md)
