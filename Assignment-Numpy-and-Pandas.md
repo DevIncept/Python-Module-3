@@ -8,5 +8,5 @@ You have to create a Jupyter Notebook implementing concepts of Numpy and same fo
 
 create a Repository and add both Notebooks and dataset in it.
 
-After completing, comment the link of Repository on this [issue.](https://github.com/DevIncept/Python-Module-3/issues/1)
+After completing, give the link of Repository on this in quiz form which will be shared on monday.
 
