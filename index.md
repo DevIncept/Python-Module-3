@@ -1,6 +1,6 @@
 # Python-Module-3
 
-1. [Part1: Introduction to Data Science](Part1-Data-Science.md)
+1. [Part1: Introduction to Data Science](Intro_Data_Science/Part1-Data-Science.md)
 2. [Part2: Numpy Introduction](Part2-Numpy-Introduction.md)
 3. [Part3: Numpy Arrays](Part3-Numpy-Arrays.md)
 4. [Part3: Numpy Arrays Notebook](Part3-Numpy-Arrays.ipynb)
