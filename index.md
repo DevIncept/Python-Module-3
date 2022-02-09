@@ -7,7 +7,7 @@
 5. [Part4: Numpy Functions](Part4-Numpy-Functions.md)
 6. [Part4: Numpy Functions Notebook](Part4-Numpy-Functions.ipynb)
 7. [Part4: Numpy Total](Numpy-Total.md)
-8. [Part4: Numpy Total](Numpy-Total.ipynb)
+8. [Part4: Numpy Total Notebook](Numpy-Total.ipynb)
 9. [Part5: Introduction to Pandas](Part5-Pandas-Introduction.md)
 10. [Part6: Pandas Series](Part6-Pandas-Series.md)
 11. [Part6: Pandas Series Notebook](Part6-Pandas-Series.ipynb)
